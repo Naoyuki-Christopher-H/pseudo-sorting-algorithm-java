@@ -78,4 +78,5 @@ pseudo-sorting-algorithm-java/
 ## Disclaimer
 
 This implementation is not a sorting algorithm in the traditional sense. The project name reflects its illustrative and non-standard behavior for teaching and exploration purposes.
-```
+
+---
